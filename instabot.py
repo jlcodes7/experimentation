@@ -2,6 +2,9 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time, random
 
+# https://www.python.org/downloads/
+# https://chromedriver.chromium.org/downloads
+
 # Username and password of your instagram account:
 my_username = 'insert username here'
 my_password = 'insert password here'
