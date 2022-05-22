@@ -1,5 +1,5 @@
 ## Experimentation 
-# J's area of planning, experimenting, building random programs that do random things.
+### J's area of planning, experimenting, building random programs that do random things.
 
 *The Good*
 - Useful programs
