@@ -8,4 +8,4 @@
 - not necessarily useful programs
 
 *The Ugly*
-- most useful or useless but definitely the most ambitious programs
+- either the most useful or most useless but definitely the most ambitious programs
